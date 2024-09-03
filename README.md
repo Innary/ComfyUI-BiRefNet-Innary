@@ -8,8 +8,9 @@ Better BiRefNet version for [ComfyUI-BiRefNet-ZHO](https://github.com/ZHO-ZHO-ZH
 
 ## 项目介绍 | Info
 
-- 简单将 [ComfyUI-BiRefNet-ZHO](https://github.com/ZHO-ZHO-ZHO/ComfyUI-BiRefNet-ZHO)中的模型替换成[BiRefNet](https://github.com/ZhengPeng7/BiRefNet)的最新版模型，精度有所提升。使用方法和[ComfyUI-BiRefNet-ZHO](https://github.com/ZHO-ZHO-ZHO/ComfyUI-BiRefNet-ZHO)基本相同。
+- 简单将 [ComfyUI-BiRefNet-ZHO](https://github.com/ZHO-ZHO-ZHO/ComfyUI-BiRefNet-ZHO)中的模型替换成[BiRefNet](https://github.com/ZhengPeng7/BiRefNet)的最新版模型，精度有所提升。
   
+- 使用方法和[ComfyUI-BiRefNet-ZHO](https://github.com/ZHO-ZHO-ZHO/ComfyUI-BiRefNet-ZHO)基本相同。
 
 ## 安装 | Install
 
@@ -28,6 +29,7 @@ Better BiRefNet version for [ComfyUI-BiRefNet-ZHO](https://github.com/ZHO-ZHO-ZH
 - 直接使用即可，不需要特殊配置。
 - `BiRefNet Model Loader`：从huggingface加载 [BiRefNet](https://github.com/ZhengPeng7/BiRefNet) 模型
 - `BiRefNet`：使用 [BiRefNet](https://github.com/ZhengPeng7/BiRefNet) 模型进行推理
+- **具体工作流请参考[sample-workflow](https://github.com/Innary/ComfyUI-BiRefNet-Innary/tree/main/sample_workflow)**
 
 
 ## Stars 
