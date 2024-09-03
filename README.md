@@ -1,6 +1,6 @@
 
 
-# ComfyUI-BiRefNet-ZHO
+# ComfyUI-BiRefNet-Innary
 
 Better BiRefNet version for [ComfyUI-BiRefNet-ZHO](https://github.com/ZHO-ZHO-ZHO/ComfyUI-BiRefNet-ZHO) in ComfyUI 
 
