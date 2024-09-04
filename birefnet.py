@@ -119,6 +119,6 @@ NODE_CLASS_MAPPINGS = {
 }
 
 NODE_DISPLAY_NAME_MAPPINGS = {
-    "BiRefNet_ModelLoader_Innary": "🧹BiRefNet Model Loader",
-    "BiRefNet_Innary": "🧹BiRefNet",
+    "BiRefNet_ModelLoader_Innary": "BiRefNet Model Loader(Innary Ver.)",
+    "BiRefNet_Innary": "BiRefNet(Innary Ver.)",
 }
