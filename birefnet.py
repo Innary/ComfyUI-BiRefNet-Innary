@@ -42,7 +42,7 @@ class BiRefNet_ModelLoader_Innary:
     RETURN_TYPES = ("BRNMODEL",)
     RETURN_NAMES = ("birefnetmodel",)
     FUNCTION = "load_model"
-    CATEGORY = "🧹BiRefNet"
+    CATEGORY = "🧩BiRefNet"
   
     def load_model(self, device_type):
         device = "cuda" if torch.cuda.is_available() and device_type == "cuda" else "cpu"
@@ -70,7 +70,7 @@ class BiRefNet_Innary:
     RETURN_TYPES = ("IMAGE", "MASK", )
     RETURN_NAMES = ("image", "mask", )
     FUNCTION = "remove_background"
-    CATEGORY = "🧹BiRefNet"
+    CATEGORY = "🧩BiRefNet"
   
     def remove_background(self, birefnetmodel, image, device_type):
         processed_images = []
