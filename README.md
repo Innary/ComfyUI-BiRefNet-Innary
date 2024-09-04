@@ -4,9 +4,9 @@
 
 ## 警告 | Warning
 
-** 请不要安装多个版本的BiRefNet自定义节点，否则可能会导致冲突。**
+**请不要安装多个版本的BiRefNet自定义节点，否则可能会导致冲突。**
 
-** Please do not install multiple versions of BiRefNet custom nodes, otherwise it may cause conflicts.**
+**Please do not install multiple versions of BiRefNet custom nodes, otherwise it may cause conflicts.**
 
 
 ## 项目介绍 | Info
