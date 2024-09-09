@@ -43,10 +43,9 @@ Better BiRefNet version for [ComfyUI-BiRefNet-ZHO](https://github.com/ZHO-ZHO-ZH
 - **具体工作流请参考[sample-workflow](https://github.com/Innary/ComfyUI-BiRefNet-Innary/tree/main/sample_workflow)**
 
 
-## Stars 
+## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=-Innary/ComfyUI-BiRefNet-Innary&type=Date)](https://star-history.com/#Innary/ComfyUI-BiRefNet-Innary&Date)
-
+[![Star History Chart](https://api.star-history.com/svg?repos=Innary/ComfyUI-BiRefNet-Innary&type=Date)](https://star-history.com/#Innary/ComfyUI-BiRefNet-Innary&Date)
 
 ## Credits
 
